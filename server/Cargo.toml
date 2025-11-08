@@ -4,4 +4,25 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-dotenv = "0.15.0"
+axum = { version = "0.7", features = ["macros", "json"] }
+axum-extra = { version = "0.9", features = ["cookie"] }
+dotenv = "0.15"
+http = "1.1"
+jsonwebtoken = "9"
+oauth2 = { version = "5", features = ["reqwest", "pkce"] }
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sqlx = { version = "0.7", features = ["runtime-tokio-rustls", "postgres", "uuid", "chrono", "migrate"] }
+thiserror = "1"
+time = { version = "0.3", features = ["macros"] }
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "signal"] }
+tower = "0.4"
+tower-http = { version = "0.5", features = ["cors", "trace", "set-header"] }
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
+uuid = { version = "1", features = ["serde", "v4"] }
+chrono = { version = "0.4", features = ["serde"] }
+rand = "0.8"
+base64 = "0.21"
+subtle = "2.5"

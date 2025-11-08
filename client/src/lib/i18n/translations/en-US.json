@@ -1,0 +1,126 @@
+{
+	"navigation": {
+		"brand": "Softblaze",
+		"logout": "Sign out",
+		"localeLabel": "Language"
+	},
+	"auth": {
+		"welcomeBackTitle": "Welcome back to Softblaze",
+		"welcomeBackDescription": "Sign in with your account to manage orders and download your activation codes.",
+		"loginCta": "Continue with GitHub",
+		"loginTitle": "Sign in to Softblaze",
+		"loginDescription": "Authenticate with GitHub to access your purchase history and instant downloads."
+	},
+	"home": {
+		"meta": {
+			"title": "Softblaze — Instant Digital Activation Codes for Premium Software",
+			"description": "Purchase authentic software activation codes with instant delivery. Softblaze offers license keys for operating systems, productivity suites, creative tools, and security software."
+		},
+		"hero": {
+			"eyebrow": "Trusted digital marketplace",
+			"heading": "Instant software activation codes for the tools you rely on",
+			"description": "Softblaze helps teams and creators unlock premium software in seconds. Choose your license, receive a verified activation code immediately, and stay productive without waiting on physical shipments.",
+			"primaryCta": "Browse licenses",
+			"secondaryCta": "Sign in to purchase",
+			"badges": {
+				"microsoft": "Microsoft Certified Reseller",
+				"adobe": "Adobe Creative Cloud",
+				"autodesk": "Autodesk Authorized",
+				"malwarebytes": "Malwarebytes Premium"
+			}
+		},
+		"features": {
+			"heading": "Why teams choose Softblaze",
+			"summary": "Enterprise-grade license distribution with consumer-friendly pricing and instant fulfillment.",
+			"instantDelivery": {
+				"title": "Instant email delivery",
+				"description": "Receive your activation code and a step-by-step setup guide the moment checkout completes."
+			},
+			"authenticLicenses": {
+				"title": "Genuine licenses only",
+				"description": "Every key is fully verifiable with the original software publisher for long-term use."
+			},
+			"globalCatalog": {
+				"title": "Global catalog",
+				"description": "Choose from regional editions and language packs tailored to your compliance needs."
+			},
+			"support": {
+				"title": "Specialist support",
+				"description": "Softblaze experts help with installation, migration, and audit-friendly documentation."
+			}
+		},
+		"categories": {
+			"heading": "Curated license catalog",
+			"summary": "Find activation codes for the software that matters most to your workflow.",
+			"operatingSystems": {
+				"title": "Operating systems",
+				"description": "Windows 11 Pro, Windows Server, and essential virtualization keys with multi-user support."
+			},
+			"productivity": {
+				"title": "Productivity suites",
+				"description": "Microsoft 365, Office LTSC, and collaboration platforms for hybrid teams."
+			},
+			"creative": {
+				"title": "Creative software",
+				"description": "Adobe Creative Cloud, Capture One, and design toolkits for agencies and studios."
+			},
+			"security": {
+				"title": "Security & utilities",
+				"description": "Malwarebytes, Bitdefender, and backup utilities to keep your environments safe."
+			}
+		},
+		"ribbon": {
+			"heading": "Ready to activate your next software deployment?",
+			"description": "Create an account to secure licenses, track invoices, and manage renewals in one dashboard.",
+			"cta": "Get started"
+		},
+		"faq": {
+			"heading": "Questions about digital activation codes?",
+			"summary": "We built Softblaze to remove the friction from licensing. Here’s what customers ask most.",
+			"delivery": {
+				"question": "How fast do I receive my activation code?",
+				"answer": "Delivery is instant. We email the activation code, installation instructions, and a downloadable invoice immediately after payment clears."
+			},
+			"authenticity": {
+				"question": "Are these licenses legitimate?",
+				"answer": "Yes. We source activation codes directly from authorized distributors and publishers. Every license can be verified with the original provider."
+			},
+			"installation": {
+				"question": "Will you help me install the software?",
+				"answer": "Absolutely. Softblaze provides step-by-step guides and optional remote assistance for enterprise deployments."
+			},
+			"support": {
+				"question": "What if I lose my key?",
+				"answer": "Your keys live in your Softblaze account. You can re-download invoices and activation codes anytime, and our team can assist if you need archival copies."
+			}
+		},
+		"support": {
+			"heading": "End-to-end support for license compliance",
+			"description": "From purchase to deployment, Softblaze keeps your software lifecycle documented and audit-ready.",
+			"items": {
+				"verification": {
+					"title": "Publisher verification",
+					"description": "Each order includes verification instructions to validate the license with the original vendor."
+				},
+				"guides": {
+					"title": "Platform-specific guides",
+					"description": "Download detailed onboarding playbooks for Windows, macOS, and mixed environments."
+				},
+				"backups": {
+					"title": "Secure license vault",
+					"description": "Archive activation keys in an encrypted vault with access controls for your administrators."
+				}
+			}
+		}
+	},
+	"login": {
+		"meta": {
+			"title": "Sign in to Softblaze — Access Your Digital Licenses",
+			"description": "Log into Softblaze to download activation codes, review invoices, and manage your software licenses from one secure dashboard."
+		},
+		"heading": "Access your Softblaze dashboard",
+		"description": "Sign in with GitHub to manage purchases, download activation instructions, and keep your licenses synced across devices.",
+		"cta": "Sign in with GitHub"
+	}
+}
+

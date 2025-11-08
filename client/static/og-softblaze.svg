@@ -1,0 +1,38 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="bg-gradient" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#1D1B4A" />
+			<stop offset="0.5" stop-color="#301C68" />
+			<stop offset="1" stop-color="#132A57" />
+		</linearGradient>
+		<radialGradient id="flare-gradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 130) rotate(45) scale(520 380)">
+			<stop stop-color="#8B5CF6" stop-opacity="0.8" />
+			<stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
+		</radialGradient>
+	</defs>
+	<rect width="1200" height="630" fill="url(#bg-gradient)" />
+	<rect width="1200" height="630" fill="url(#flare-gradient)" />
+	<g filter="url(#glow)">
+		<path
+			d="M402.5 225C402.5 205.013 418.513 189 438.5 189H628C663.004 189 691.5 217.496 691.5 252.5C691.5 287.504 663.004 316 628 316H513.5L495.5 382H393L420 281C409.996 272.332 402.5 266.569 402.5 251V225Z"
+			fill="rgba(236, 233, 255, 0.08)"
+		/>
+		<path
+			d="M777 189H887C922.004 189 950.5 217.496 950.5 252.5C950.5 287.504 922.004 316 887 316H810.5L793 382H689.5L716.5 281C706.496 272.332 699 266.569 699 251V225C699 205.013 715.013 189 735 189H777Z"
+			fill="rgba(236, 233, 255, 0.08)"
+		/>
+	</g>
+	<text x="1200" y="270" fill="#F1F5F9" font-family="Inter, 'Segoe UI', sans-serif" font-size="120" font-weight="700" text-anchor="end">
+		SOFTBLAZE
+	</text>
+	<text x="1200" y="360" fill="rgba(226, 232, 240, 0.8)" font-family="Inter, 'Segoe UI', sans-serif" font-size="36" font-weight="400" text-anchor="end">
+		Instant digital activation codes for premium software.
+	</text>
+	<defs>
+		<filter id="glow" x="352" y="139" width="648.5" height="293" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feGaussianBlur in="SourceGraphic" stdDeviation="25" />
+		</filter>
+	</defs>
+</svg>
+
